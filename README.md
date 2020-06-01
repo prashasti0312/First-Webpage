@@ -1,1 +1,1 @@
-prashasti0312.github.io/git-test/1.html
+https://prashasti0312.github.io/git-test/1.html
